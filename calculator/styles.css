@@ -1,0 +1,43 @@
+*{
+    text-align: center;
+    width: auto;
+    font-size: 25px;
+}
+
+.box{ 
+    margin-top: 20%;
+    border-radius: 2px;
+    border-style: solid;
+    border-color:skyblue ;
+    height: 370px;
+    width: 270px;
+    padding: 20px;
+    margin-left: 45%;
+}
+
+.btn
+{
+    height: 50px;
+    width: 40px;
+    margin: 5px;
+    color: white;
+    background-color: green;
+    outline: none;
+    border-color: white;
+    border-radius: 5px;
+}
+#clearall
+{
+    width: 210px;
+    color: white;
+    background-color: red;
+
+}
+#input
+{
+    border: 5px solid black;
+    height: 40px;
+    width: 250px;
+    color: white;
+    background-color: green;
+}
